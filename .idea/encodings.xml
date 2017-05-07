@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../metro/build/vue-loader.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metro/build/webpack.base.conf.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metro/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../metro/src/router/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/dev-server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/name-list.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node_modules/vee-validate/dist/vee-validate.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/blotter.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/list.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/common/login.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/goods.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/ratings.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/seller.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/solution/list-item.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/solution/solution.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/directive/validate.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/scroll/iscroll.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/modules/common.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/store/mutation-types.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.js" charset="UTF-8" />
+  </component>
+</project>

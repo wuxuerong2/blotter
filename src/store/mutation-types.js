@@ -1,0 +1,4 @@
+export const SET_LOGIN = 'SET_LOGIN'
+export const SET_LOGIN_DIALOG = 'SET_LOGIN_DIALOG'
+export const SET_PREVIOUS_URL = 'SET_PREVIOUS_URL'
+
